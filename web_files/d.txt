@@ -1,0 +1,76 @@
+# RATP Dev USA Knowledge Base
+
+This document provides a structured overview of RATP Dev USA, based on the information available from their website.
+
+## 1. Company Overview
+
+RATP Dev operates and maintains urban and intercity transportation systems on five continents. Their mission is to make distances shorter, boost regional economies, and bring people together.
+
+As one of the largest multi-modal urban public transit operators, RATP Dev connects transit agencies – and their riders – with global expertise. This expertise is leveraged to provide an excellent passenger experience, encompassing aspects from on-time performance and electric buses to sophisticated safety programs, ensuring the security of the communities and riders they serve.
+
+## 2. Services & Modes of Transport
+
+RATP Dev USA offers expertise across various modes of transportation:
+
+*   **BUS**: Described as a convenient, appealing, and affordable mode of transportation offering unparalleled flexibility and the highest level of safety.
+*   **STREETCAR**
+*   **PARATRANSIT**
+*   **MOD** (Mobility On-Demand)
+*   **SIGHTSEEING**
+
+## 3. Expertise & Key Differentiators
+
+RATP Dev's approach is characterized by:
+
+*   **Intermodality**: Thinking local while leveraging global expertise.
+*   **Global Expertise**: Providing an excellent passenger experience through:
+    *   On-time performance
+    *   Electric buses
+    *   Sophisticated safety programs
+
+## 4. Global & USA Operations
+
+RATP Dev has a significant global presence:
+
+*   **Global Reach**: Present in 17 countries (and in 4 additional countries through franchises) across America, Europe, Africa, Middle East, and Asia/Oceania.
+*   **Subsidiaries**: Operates and maintains innovative and safe transport systems through over 120 subsidiaries worldwide.
+*   **USA Operations**: Specifically mentioned, indicating a presence and operations within the United States. (Specific project details or locations within the USA are not detailed in the provided content).
+
+## 5. Commitments
+
+RATP Dev emphasizes strong commitments, particularly in safety:
+
+*   **Safety Excellence Through Collaboration**: A core principle guiding their operations.
+*   **Building a Resilient, Learning-Oriented Safety Environment**: Highlighting a proactive and adaptive approach to safety.
+*   **Leadership in Safety**: Francine James, Vice President of Safety & Security, is noted for her role in these commitments.
+
+## 6. News & Highlights
+
+*   **NATIONAL SUPPORT FOR LOCAL TRAGEDIES**: RATP Dev USA demonstrates community involvement.
+*   **RATP DEV USA: Banding Together in Times of Need**: Further indicates their support for communities during challenging times.
+
+## 7. Contact & Social Media
+
+*   **Contact**: A "Contact" link is present in the footer, but specific contact details (address, phone, email) are not provided in the scraped content.
+*   **Social Media**:
+    *   [Linkedin](https://www.linkedin.com/company/ratp-dev/)
+    *   [Twitter](https://twitter.com/RATPDev)
+
+## 8. Additional Sections (Mentioned but no detailed content available)
+
+The website footer lists several sections that typically contain more detailed information, but their content was not available in the scraped data:
+
+*   **Our expertise**
+*   **Our commitments**
+*   **Our operations**
+*   **About us**
+*   **RATP Dev Worldwide**
+*   **Legal Notice**
+*   **Cookies**
+*   **SITEMAP**
+*   **JOIN OUR NEWSLETTER** (An option to subscribe to a newsletter is present)
+
+## 9. Cookie Consent
+
+The website uses cookies to enhance user experience and provides a consent mechanism:
+"We use cookies on this site to enhance your user experience. By clicking any link on this page you are giving your consent for us to set cookies. More info OK, I agree No, thanks"

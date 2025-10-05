@@ -1,0 +1,19 @@
+generate_knowledge_entry:
+  description: >
+    Read the entire content of the provided document or website data,
+    analyze it thoroughly, and transform it into a comprehensive,
+    topic-based markdown knowledge article. The content should retain
+    all key information, facts, and details, while being structured
+    for clarity and ease of reading. The output should be suitable
+    for direct use in a user-facing knowledge base or a voice assistant.
+  expected_output: >
+    A complete, well-structured markdown (.md) document that includes:
+      - A clear, descriptive title as H1 (#)
+      - A short introduction paragraph that contextualizes the content
+      - All key points, concepts, and information from the source,
+        organized into H2 (##) or H3 (###) sections
+      - Bullet lists, numbered lists, or tables where relevant
+      - Optional FAQ, “Tips,” or examples section if applicable
+    The output should **preserve all content from the original file**,
+    organize it logically, and make it easy for users to read and understand.
+  agent: knowledge_base_creator
